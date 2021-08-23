@@ -1,0 +1,641 @@
+﻿{
+    "data": [
+        {
+            "boothNum": "A-01",
+            "nameKor": "경희대학교(ADRC)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-02",
+            "nameKor": "광주과학기술원",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-03",
+            "nameKor": "한양대학교(System IC lab)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-04",
+            "nameKor": "서울대학교",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-05",
+            "nameKor": "서울대학교",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-06",
+            "nameKor": "지엘비젼",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-07",
+            "nameKor": "에이빙 코리아",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "A-08",
+            "nameKor": "Help Desk",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "A-09",
+            "nameKor": "하이델베르크 인스트루먼트 코리아",
+            "nameEng": "Heidelberg Instruments Korea",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-10",
+            "nameKor": "아이앤에이테크놀로지",
+            "nameEng": "I AND A TECHNOLOGY Inc.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-11",
+            "nameKor": "에이맵플러스",
+            "nameEng": "AMAP PLUS CO., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-12",
+            "nameKor": "주성엔지니어링",
+            "nameEng": "JUSUNG ENGINEERING",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-13",
+            "nameKor": "고려대학교(MSE) / 중앙대학교&국민대학교",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-14",
+            "nameKor": "셀쿱스",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-15",
+            "nameKor": "경북대학교(3DOT Lab)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-16",
+            "nameKor": "브라이튼코퍼레이션",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-17",
+            "nameKor": "한국에너지기술연구원(IOEM)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-18",
+            "nameKor": "(주)한교홀로그램",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-19",
+            "nameKor": "한국과학기술원(참가부서 : KAIST 소재부품장비 협의체(N-TEAM))",
+            "nameEng": "KAIST National Research Consultative Team(N-TEAM) for Materials, Parts and Equipments",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-20",
+            "nameKor": " 해토",
+            "nameEng": "HAETO",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-21",
+            "nameKor": "코리아하이텍",
+            "nameEng": "KOREAHITEK",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-22",
+            "nameKor": "한국화학연구원",
+            "nameEng": "Korea Research Institute of Chemical Technology",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-23",
+            "nameKor": "(주) 실바코 코리아",
+            "nameEng": "SILVACO",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-24",
+            "nameKor": "에스제이컴퍼니",
+            "nameEng": "sjcompany",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-25",
+            "nameKor": "네프코",
+            "nameEng": "NEPCO",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-26",
+            "nameKor": "한국기초과학지원연구원",
+            "nameEng": "Korea Basic Science Institute(KBSI)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-27",
+            "nameKor": "주식회사 넥서스비",
+            "nameEng": "Nexusbe Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-28",
+            "nameKor": "영우디에스피",
+            "nameEng": "youngwoo dsp",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-29",
+            "nameKor": "유니젯",
+            "nameEng": "Unijet co., ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "A-30",
+            "nameKor": "동진쎄미켐",
+            "nameEng": "DONGJIN SEMICHEM CO., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-01",
+            "nameKor": "나노종합기술원",
+            "nameEng": "Naional NanoFab Center",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-02",
+            "nameKor": "에드메지비브이",
+            "nameEng": "ADMESY B.V.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-03",
+            "nameKor": "한국전자통신연구원(ETRI)",
+            "nameEng": "Electronics and Telecommunications Research Institute",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-04",
+            "nameKor": "한국텍트로닉스",
+            "nameEng": "Tektronix Korea Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-05 ",
+            "nameKor": "비즈니스라운지",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "B-06",
+            "nameKor": "제덱스",
+            "nameEng": "jedex inc",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-07",
+            "nameKor": "LG디스플레이",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-08",
+            "nameKor": "SFA",
+            "nameEng": "SFA Engineering Corp.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-09",
+            "nameKor": "로데슈바르즈코리아주식회사",
+            "nameEng": "ROHDE & SCHWARZ Korea Limited",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-10",
+            "nameKor": "피아이코리아",
+            "nameEng": "PI Korea",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-11",
+            "nameKor": " 케이씨텍",
+            "nameEng": "KCTech",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-12",
+            "nameKor": "래디언트비전시스템즈코리아 유한회사",
+            "nameEng": "Radiant Vision Systems Korea Limited",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-13",
+            "nameKor": "영풍지케이 주식회사",
+            "nameEng": "YoungPoong GK Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-14",
+            "nameKor": "셀코스",
+            "nameEng": "SELCOS., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "B-14",
+            "nameKor": "메이",
+            "nameEng": "MAY CO., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-01",
+            "nameKor": "노바센트릭스",
+            "nameEng": "NovaCentrix",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-02",
+            "nameKor": "하이록스코리아",
+            "nameEng": "HIROXKOREA CO.,LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-03",
+            "nameKor": "넥센서",
+            "nameEng": "Nexensor Inc.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-04",
+            "nameKor": "이오비스",
+            "nameEng": "IOVIS CO.,LTD",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-05",
+            "nameKor": "ELDIM S.A. (아셈)",
+            "nameEng": "ELDIM S.A.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-06",
+            "nameKor": "엘엠에스",
+            "nameEng": "LMS Corporation",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-07",
+            "nameKor": "브러쉬뱅크",
+            "nameEng": "BRUSH BANK",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-08",
+            "nameKor": "제니어스",
+            "nameEng": "Genius Co., Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-09",
+            "nameKor": "탑엔지니어링",
+            "nameEng": "TOP Engineering Co.,Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-10",
+            "nameKor": "머크퍼포먼스머티리얼즈",
+            "nameEng": "Merck Performance Materials, Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-11",
+            "nameKor": "휴비츠",
+            "nameEng": "Huvitz",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-12",
+            "nameKor": "메테오 잉크젯(메손)",
+            "nameEng": "Meteor Inkjet Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-13",
+            "nameKor": "알트소프트",
+            "nameEng": "ALTSOFT",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-15",
+            "nameKor": "라온텍",
+            "nameEng": "RAONTECH, Inc.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-16",
+            "nameKor": "피에스텍",
+            "nameEng": "PSTEK",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-17",
+            "nameKor": "래디언트솔루션",
+            "nameEng": "Radiant Solution Co.,Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-18",
+            "nameKor": "사나이시스템",
+            "nameEng": "Sanayi System Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-19",
+            "nameKor": "맥사이언스",
+            "nameEng": "McScience",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-20",
+            "nameKor": "코파스 ",
+            "nameEng": "KOFAS CO., LDT.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-21",
+            "nameKor": "선익시스템",
+            "nameEng": "SUNIC SYSTEM Co., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-22",
+            "nameKor": "에이피아이앤씨",
+            "nameEng": "Applied Plasma Inc.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "C-23",
+            "nameKor": "성도이엔지",
+            "nameEng": "SUNGDO ENG",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-01",
+            "nameKor": "동우화인켐",
+            "nameEng": "DONGWOO FINE-CHEM CO., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-04",
+            "nameKor": "엔아이텍",
+            "nameEng": "N.I.TECH",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-05",
+            "nameKor": "아텍엘티에스",
+            "nameEng": "AHTECH LTS CO.,LTD",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-06",
+            "nameKor": "이엘피",
+            "nameEng": "ELP Corporation",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-07",
+            "nameKor": "엔지온",
+            "nameEng": "Engion",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-08",
+            "nameKor": "에이앤에이티",
+            "nameEng": "A&AT",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-09",
+            "nameKor": "필옵틱스",
+            "nameEng": "PHILOPTICS",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-10",
+            "nameKor": "원익아이피에스",
+            "nameEng": "WONIKIPS Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-11",
+            "nameKor": "삼성디스플레이",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-12",
+            "nameKor": "킴스옵텍",
+            "nameEng": "KIMSOPTEC CO.,LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-13",
+            "nameKor": "수양켐텍",
+            "nameEng": "Sooyangchem Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-14",
+            "nameKor": "유창하이텍",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-15",
+            "nameKor": "플렉시고",
+            "nameEng": "FlexiGO inc.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-16",
+            "nameKor": "KAIST(집적 유기전자 연구실)",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-17",
+            "nameKor": "C-Touch&Display Shenzhen",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-18",
+            "nameKor": "에이앤아이",
+            "nameEng": "ANI CO., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-19",
+            "nameKor": "신한과학",
+            "nameEng": "Shinhan Scientific",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-20",
+            "nameKor": "선재하이테크",
+            "nameEng": "SUNJE",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-21",
+            "nameKor": "엠에이케이",
+            "nameEng": "MAK Co.,Ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-22",
+            "nameKor": "태원과학",
+            "nameEng": "iTASCO",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-23",
+            "nameKor": "씨티에스",
+            "nameEng": "CTS Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "D-24",
+            "nameKor": "AP시스템(에이피에스홀딩스)",
+            "nameEng": "AP Systems ",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-01",
+            "nameKor": "스윗",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-02",
+            "nameKor": "디월드 ",
+            "nameEng": "Dworld Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-03",
+            "nameKor": "KDIA 해외마케팅지원사업관",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-04",
+            "nameKor": "이즈소프트 ",
+            "nameEng": "ISSOFT",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-05",
+            "nameKor": "델타이에스",
+            "nameEng": "Delta ES Co., Ltd.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-06",
+            "nameKor": "엠케이피 주식회사",
+            "nameEng": "MKP",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-08",
+            "nameKor": "드림",
+            "nameEng": "Dream corporation",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-09",
+            "nameKor": "IMID Business Forum 홍보관",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-10",
+            "nameKor": "파크시스템스",
+            "nameEng": "Park Systems Corp.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-11",
+            "nameKor": "충남테크노파크",
+            "nameEng": "Chungnam Techno Park",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-12",
+            "nameKor": "중원통상",
+            "nameEng": "Jung Won Corporation",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-13",
+            "nameKor": "디스플레이 성능평가사업 홍보관",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-14",
+            "nameKor": "온도기술센테크",
+            "nameEng": "Ondokisul sentech co.,ltd",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-15",
+            "nameKor": "주원",
+            "nameEng": "JOOWON INDUSTRIAL CO., LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-16",
+            "nameKor": "스톤파트너스",
+            "nameEng": "Stonepartners",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-17",
+            "nameKor": "신성이엔지",
+            "nameEng": "SHINSUNG E&G",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-18",
+            "nameKor": "원에스티",
+            "nameEng": "WON ST CO.LTD.",
+            "ispdf": "true"
+        },
+        {
+            "boothNum": "E-19",
+            "nameKor": "아임인디스플레이 포상존",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "E-20",
+            "nameKor": "라운지",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "E-21",
+            "nameKor": "다스플레이 인력양성사업 홍보관",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "E-22",
+            "nameKor": "정보디스플레이 포상존",
+            "ispdf": "false"
+        },
+        {
+            "boothNum": "E-23",
+            "nameKor": "온에어존",
+            "ispdf": "false"
+        }
+    ]
+}

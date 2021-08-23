@@ -15,27 +15,39 @@
                 :key="idx"
                 class="list-item"
                 v-html="item"
+                @click="pdfOn"
             ></li>
         </ul>
     </div>
 </template>
 <script>
-import { list } from "../assets/list.js";
+import list from "../assets/data.json";
 export default {
     data() {
         return {
-            dummylist: list,
+            dummylist: list.data,
+            partiList: [],
             inputModel: "",
             usrUpperCase: "",
+            btnDown: "",
             word: [],
         };
     },
-    mounted() {},
+    mounted() {
+        console.log("mounted!!");
+        this.dummylist.forEach((item) => {
+            let objItem = `<span>${item.boothNum} ${item.nameKor} ${
+                item.nameEng ? item.nameEng : ""
+            }</span></a>`;
+            this.partiList.push(objItem);
+        });
+        // console.log(this.partiList);
+    },
     computed: {
         listArr() {
             let returnList;
             if (this.usrUpperCase) {
-                returnList = this.dummylist.filter((item) => {
+                returnList = this.partiList.filter((item) => {
                     if (item.toUpperCase().includes(this.usrUpperCase.trim())) {
                         return item;
                     }
@@ -45,23 +57,24 @@ export default {
                     let regexAllCase = new RegExp(letter, "gi");
                     let replaced_item = item.replace(
                         regexAllCase,
-                        `<strong>${this.inputModel.trim()}</strong>`
+                        `<strong style="color: #0008e8;">${this.inputModel.trim()}</strong>`
                     );
                     returnList[idx] = replaced_item;
                 });
             } else {
-                returnList = [...this.dummylist];
+                returnList = [...this.partiList];
             }
             return returnList;
         },
     },
-    updated() {
-        // this.doMarking();
-    },
+    updated() {},
     methods: {
         doInput: function (e) {
             this.inputModel = e.target.value;
             this.usrUpperCase = this.inputModel.toUpperCase();
+        },
+        pdfOn: function () {
+            console.log("pdf on");
         },
     },
 };
@@ -71,10 +84,9 @@ export default {
 * {
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
 }
-.strong {
-    color: #ff3c00;
-}
+
 .about {
     input {
         margin-bottom: 16px;
@@ -93,10 +105,13 @@ export default {
         overflow-y: scroll;
 
         li.list-item {
+            display: flex;
+            justify-content: space-between;
             width: 100%;
-            padding: 0.2rem 0;
+            padding: 0.2rem 0.4rem;
             text-align: left;
             border-bottom: 1px solid #efefef;
+            cursor: pointer;
         }
     }
 }
